@@ -81,6 +81,7 @@ Esses pontos foram avaliados conceitualmente, mas não implementados por não ag
 ---
 ## 🧩 Estrutura do Repositório
 
+```bash
 poc-snowflake/
 ├── raw/
 ├── bronze/
@@ -88,7 +89,7 @@ poc-snowflake/
 ├── gold/
 control/
 docs/
-
+```
 
 ---
 
