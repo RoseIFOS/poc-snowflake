@@ -16,7 +16,7 @@ O foco foi **exploração técnica e arquitetural**, não a construção de um p
 
 ## 🏗️ Arquitetura Implementada
 
-![Arquitetura](docs\Arquitetura.png)
+<img src="./docs/Arquitetura.png" alt="Texto Alternativo" width="920"/>
 
 
 ### 🔹 Bronze
